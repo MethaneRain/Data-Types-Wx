@@ -1,7 +1,7 @@
 # Data-Types-Wx
 ### Reference for working with various Wx data types in Python specifically
 
-## Since I have spent most of my time dealing with weather data in Python, this repository will highlight basic data access via Python for data files:
+### Since I have spent most of my time dealing with weather data in Python, this repository will highlight basic data access via Python for data files:
   * netCDF (.nc) - most common
   * Gribs (.grib or .grib2) - most common
   * HDF5 (.hdf)
