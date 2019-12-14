@@ -14,3 +14,5 @@ Working with Copernicus Climate Change Service (C3S) server to access various da
 * More help - https://github.com/ecmwf/cdsapi
 
 *
+
+![Sample Map](https://raw.githubusercontent.com/MethaneRain/Data-Types-Wx/master/CDS-API/ECMWF_1000mb_Temp_Reanl_20181221_1600.png width="40%")
