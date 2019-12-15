@@ -5,6 +5,8 @@
   * netCDF (.nc) - most common
   * Gribs (.grib or .grib2) - most common
   * HDF5 (.hdf)
+  * BUFR
+  * AREA
   * Fits (.fits) - Hubble Telescope Data
 
 
