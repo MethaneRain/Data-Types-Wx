@@ -3,8 +3,8 @@
 
 ### Since I have spent most of my time dealing with weather data in Python, this repository will highlight basic data access via Python for data files:
   * netCDF (.nc) - most common
-  * Gribs (.grib or .grib2) - most common
-  * HDF5 (.hdf)
+  * GRIB (.grib or .grib2) - most common
+  * HDF5 (.h5)
   * BUFR
   * AREA
   * Fits (.fits) - Hubble Telescope Data
